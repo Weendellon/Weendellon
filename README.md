@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋 Eu sou Weendellon</h1>
-<h3 align="center">Sou apaixonado desde pequeno por programação, games e tecnologia em geral, Sou pai de familia e tenho dois filhos incríveis, uma mulher maravilhosa, amo o que faço e me dedico.</h3>
+<h3 align="center">Sou apaixonado desde pequeno por games e tecnologias em geral, Sou pai de familia e tenho dois filhos incríveis, uma mulher maravilhosa, amo o que faço e me dedico.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=weendellon&label=Profile%20views&color=0e75b6&style=flat" alt="weendellon" /> </p>
 
