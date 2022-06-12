@@ -9,8 +9,6 @@
 
 - 🌱 Atualmente estou aprendendo **HTML, CSS e JavaScript**
 
-- 👨‍💻 Meu portifólio está em contrução [https://weendellon.github.io/meuSiteSemSaberProgramar2022/](https://weendellon.github.io/meuSiteSemSaberProgramar2022/)
-
 - 💬 Faça uma pergunta sobre... **minha vida, meus objetivos etc.**
 
 - 📫 Me mande um emai **weendellon.b@gmail.com**
